@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< Updated upstream
 chmod -R +X ./
+=======
+chmod 111 {} /.
+>>>>>>> Stashed changes
