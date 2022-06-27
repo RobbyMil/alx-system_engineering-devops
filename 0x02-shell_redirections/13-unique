@@ -1,0 +1,2 @@
+#!/bin/bash
+sort my_sample | uniq -u
